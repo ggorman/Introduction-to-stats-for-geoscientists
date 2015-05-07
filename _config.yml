@@ -1,5 +1,5 @@
 # Site settings
-title: Introduction to programming for geoscientists
+title: Introduction to statistics for geoscientists
 
 name1: Gerard Gorman
 address1: Room 4.92, Royal School of Mines
@@ -15,12 +15,11 @@ twitter_username2: ctjacobs_uk
 
 description: > # this means to ignore newlines until "baseurl:"
 
-  This lecture course has two objectives: learn the basic principles of
-  computer programming; become proficient at Python programming as it is
-  currently one of the most commonly used languages in computational science.
+  This lecture course has two objectives: learn basic statistical methods;
+  become proficient in applying statistics using iPython.
 
-baseurl: http://ggorman.github.io/Introduction-to-programming-for-geoscientists
-production_url : http://ggorman.github.io/Introduction-to-programming-for-geoscientist
+baseurl: http://ggorman.github.io/Introduction-to-stats-for-geoscientists
+production_url : http://ggorman.github.io/Introduction-to-stats-for-geoscientist
 
 # Build settings
 markdown: kramdown
