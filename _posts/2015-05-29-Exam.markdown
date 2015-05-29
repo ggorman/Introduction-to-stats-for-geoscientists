@@ -1,0 +1,11 @@
+---
+layout: post
+Exam 2015
+date:   2015-05-29 14:00:00
+categories: Lecture notes
+---
+
+* [Exam iPython notebook](https://github.com/ggorman/Introduction-to-stats-for-geoscientists/blob/gh-pages/notebooks/exam2015.ipynb)
+* [Data file: VostokStation.csv](https://github.com/ggorman/Introduction-to-stats-for-geoscientists/blob/gh-pages/data/VostokStation.csv)
+
+
