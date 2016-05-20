@@ -9,5 +9,6 @@ categories: Lecture notes
 
 Sample solutions to exercises:
 
-* [Sample solution 7](https://github.com/ggorman/Introduction-to-stats-for-geoscientists/blob/gh-pages/notebooks/Solution-7.ipynb)
+* [Solution 7.1](https://github.com/ggorman/Introduction-to-stats-for-geoscientists/blob/gh-pages/notebooks/Solution-7.1.ipynb)
+* [Solution 7.2](https://github.com/ggorman/Introduction-to-stats-for-geoscientists/blob/gh-pages/notebooks/Solution-7.2.ipynb)
 
