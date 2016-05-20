@@ -17,4 +17,3 @@ production_url : http://ggorman.github.io/Introduction-to-stats-for-geoscientist
 
 # Build settings
 markdown: kramdown
-future: true
