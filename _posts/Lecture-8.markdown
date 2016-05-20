@@ -1,9 +1,11 @@
 ---
 layout: post
-Lecture 8 - Solutions to exercises
-date:   2015-05-28 17:00:00
+Lecture 8
+date:   2016-05-26 14:00:00
 categories: Lecture notes
 ---
+
+* [Download](http://ggorman.github.io/Introduction-to-stats-for-geoscientists//notebooks/Lecture-8.ipynb)
 
 Sample solutions to exercises:
 
