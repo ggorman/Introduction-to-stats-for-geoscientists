@@ -1,8 +1,6 @@
 # Site settings
 title: Introduction to statistics for geoscientists
 
-future:true
-
 name1: Gerard Gorman
 address1: Room 4.92, Royal School of Mines
 email1: g.gorman@imperial.ac.uk
@@ -19,3 +17,4 @@ production_url : http://ggorman.github.io/Introduction-to-stats-for-geoscientist
 
 # Build settings
 markdown: kramdown
+future: true
