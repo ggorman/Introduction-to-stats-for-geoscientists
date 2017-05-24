@@ -1,0 +1,10 @@
+---
+layout: post
+title: Lecture 6 - solutions
+---
+
+Sample solutions to exercises in [Lecture 6](http://nbviewer.ipython.org/url/raw.githubusercontent.com/ggorman/Introduction-to-stats-for-geoscientists/gh-pages/notebooks/Lecture-6.ipynb):
+
+* [Solution 6.1](http://nbviewer.ipython.org/url/raw.githubusercontent.com/ggorman/Introduction-to-stats-for-geoscientists/gh-pages/notebooks/Solution-6.1.ipynb)
+* [Solution 6.2](http://nbviewer.ipython.org/url/raw.githubusercontent.com/ggorman/Introduction-to-stats-for-geoscientists/gh-pages/notebooks/Solution-6.2.ipynb)
+* [Solution 6.3](http://nbviewer.ipython.org/url/raw.githubusercontent.com/ggorman/Introduction-to-stats-for-geoscientists/gh-pages/notebooks/Solution-6.3.ipynb)

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Lecture 8 - solutions
+---
+
+Sample solutions to exercises in [Lecture 8](http://nbviewer.ipython.org/url/raw.githubusercontent.com/ggorman/Introduction-to-stats-for-geoscientists/gh-pages/notebooks/Lecture-8.ipynb):
+
+* [Solution 8.1](http://nbviewer.ipython.org/url/raw.githubusercontent.com/ggorman/Introduction-to-stats-for-geoscientists/gh-pages/notebooks/Solution-8.1.ipynb)
+* [Solution 8.2](http://nbviewer.ipython.org/url/raw.githubusercontent.com/ggorman/Introduction-to-stats-for-geoscientists/gh-pages/notebooks/Solution-8.2.ipynb)
